@@ -5,6 +5,7 @@
   "version": "0.0.1",
   "homepage": "http://imrehg.github.com/goodreads-node",
   "repository": {
+    "type": "git",
     "url": "https://github.com/imrehg/goodreads-node.git"
   },
   "dependencies": {
@@ -13,6 +14,8 @@
   },
   "devDependencies": {},
   "optionalDependencies": {},
+  "license": "MIT",
+  "main": "./lib/goodreads",
   "engines": {
     "node": "*"
   }
