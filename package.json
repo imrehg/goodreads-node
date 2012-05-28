@@ -1,0 +1,18 @@
+{
+  "author": "Gergely Imreh <imrehg@gmail.com> (http://gergely.imreh.net)",
+  "name": "goodreads",
+  "description": "Interfacing the Goodreads API",
+  "version": "0.0.1",
+  "homepage": "http://github.com/imrehg/goodreads",
+  "repository": {
+    "url": "https://github.com/imrehg/goodread.git"
+  },
+  "dependencies": {
+    "request": "~2.9.202"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
