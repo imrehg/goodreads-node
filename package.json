@@ -3,9 +3,9 @@
   "name": "goodreads",
   "description": "Interfacing the Goodreads API",
   "version": "0.0.1",
-  "homepage": "http://github.com/imrehg/goodreads",
+  "homepage": "http://imrehg.github.com/goodreads-node",
   "repository": {
-    "url": "https://github.com/imrehg/goodread.git"
+    "url": "https://github.com/imrehg/goodreads-node.git"
   },
   "dependencies": {
     "request": "~2.9.202"
